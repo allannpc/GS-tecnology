@@ -1,0 +1,47 @@
+#pri1{
+    width: 70%;
+    float: left;
+}
+#encabezadocolor{
+    padding: 40px 0 0;
+    position: relative;
+    overflow: hidden;
+    background: darkblue;
+}
+#parrafosomos{
+    margin-top: 25px;
+    background-color: aliceblue;
+}
+#imgquienessomos{
+    width: 550px;
+    float: left;
+    margin: 50px;
+}
+
+#lat1{
+    width: 30%;
+    margin: 15px;
+    overflow: hidden;
+}
+#porqueelegirnos{
+    text-align: center;
+}
+
+#arti1{
+    width: 24%;
+    float: left;
+    margin: 1cm;
+    margin-left: 1cm;
+}
+#arti2{
+    width: 24%;
+    float: left;
+    margin: 1cm;
+    margin-left: 1.5cm;
+}
+#arti3{
+    width: 24%;
+    float: left;
+    margin: 1cm;
+    margin-left: 1.5cm;
+}

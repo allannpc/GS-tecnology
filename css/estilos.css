@@ -1,0 +1,268 @@
+/* -----------------------------------------------TODOXD-------------------------------------------------------------------------- */
+*{
+    margin: 0;
+    padding: 0;
+    font-family: century Gothic;
+    box-sizing: border-box;
+}
+/* ------------------------------------------CUERPO-------------------------------------------------------------------------------------- */
+body{
+    background-color: white;
+    padding-left: 5cm;
+    padding-right: 5cm;
+}
+
+/* ------------------------------------------------ENCABEZADO---------------------------------------------------------------------------------- */
+#encabezadocolor{
+    padding: 40px 0 0;
+    position: relative;
+    overflow: hidden;
+    
+    background: #222;
+}
+
+#tituloprincipal{
+    color: white;
+    text-align: center;
+    margin-bottom: 100px;
+    /* margin-left: 10px; */
+    font-size: 35px;
+    font-family: courier,arial;
+}
+#titulo2{
+    color: white;
+    text-align: center;
+    margin-bottom: 40px;
+}
+#gif1{
+    display: block;
+    margin: auto;
+    margin-bottom: 40px;
+}
+
+/* -------------------------------------------BARRA DE NAVEGACION------------------------------------------------------------- */
+
+#barradenavegacion{
+    background-color: white;
+    padding-top: 0.5cm;
+    padding-bottom: 0.5cm;
+    text-align: center;
+
+}
+nav>ul>li{
+    font-weight: 500;
+    color: black;
+    display: inline;
+    padding: 40px;
+    font-size: 25px;;
+}
+/* -----------------------------------------PRINCIPAL------------------------------------------------------- */
+#principal{
+    width: 69%;
+    height: 2300px;
+    float: left;
+    background-color: #ededed;
+}
+#tituloproductos{
+    font-size: 25px;
+    text-align: center;
+    margin-top: 40px;
+    margin-bottom: 40px;
+}
+/* ---------------------------------------------------------IMAGENES y titulos PRODUCTOS MAS VENDIDOS--------------------------------------- */
+#s20{ /*-------------------s20---------------*/
+    width: 225px;
+    float: left;
+    margin-left: -185px;
+    margin-top: 55px;
+}
+#titulos20{
+    margin-left: 125px;
+    float: left;
+}
+#s10{ /*-------------------s10---------------*/
+    width: 275px;
+    float: right;
+    margin-right: 175px;
+    margin-top: 25px;
+}
+#titulos10{
+    margin-right: 225px;
+    float: right;
+}
+
+
+
+
+#i11{ /*-------------------i11---------------*/
+    width: 225px;
+    float: left;
+    margin-left: -130px;
+    margin-top: 55px;
+}
+#tituloi11{
+    margin-left: 160px;
+    float: left;
+    
+}
+#i10{ /*-------------------i10---------------*/
+    width: 220px;
+    float: right;
+    margin-right: 175px;
+    margin-top: 25px;
+}
+#tituloi10{
+    margin-right: 270px;
+    float: right;
+}
+#i8{ /*-------------------i8---------------*/
+    width: 275px;
+    float: left;
+    margin-left: -130px;
+    margin-top: 85px;
+}
+#tituloi8plus{
+    margin-left: 160px;
+    float: left;
+    margin-top: 45px;
+}
+#i7{ /*-------------------i7---------------*/
+    width: 220px;
+    float: right;
+    margin-right: 175px;
+    margin-top: 25px;
+}
+#tituloi7{
+    margin-right: 270px;
+    float: right;
+    margin-top: 40px;
+}
+
+
+#mi9t{ /*-------------------mi9t---------------*/
+    width: 250px;
+    float: left;
+    margin-left: -130px;
+    margin-top: 155px;
+}
+#titulox9t{
+    margin-left: 160px;
+    float: left;
+    margin-top: 105px;
+}
+#note8{ /*-------------------redmi note 8---------------*/
+    width: 260px;
+    float: right;
+    margin-right: 175px;
+    margin-top: 35px;
+}
+#tituloxnote{
+    margin-right: 240px;
+    float: right;
+    margin-top: 65px;
+}
+
+#mousegamer{ /*-------------------mouse---------------*/
+    width: 300px;
+    float: left;
+    margin-left: -150px;
+    margin-top: 165px;
+}
+#titulomouseg{
+    margin-left: 160px;
+    float: left;
+    margin-top: 105px;
+}
+#hpomen{ /*-------------------laptop omen---------------*/
+    width: 325px;
+    float: right;
+    margin-right: 145px;
+    margin-top: 45px;
+}
+#titulohpomen{
+    margin-right: 240px;
+    float: right;
+    margin-top: 95px;
+}
+
+
+
+
+
+/* -----------------------------------------LATERAL------------------------------------------------------------------- */
+#lateral{
+    width: 30%;
+    height: 2300px;
+    float: right;
+    background-color: #ededed;
+}
+#titulomarcastrabajamos{
+    font-size: 20px;
+    text-align: center;
+    margin-top: 40px;
+}
+
+
+
+/* ------------------------------------PAGOS---------------------------------------------------- */
+#pagosprincipal{
+
+    width: 100%;
+    float: left;
+    height: 500px;
+    margin-top: -2cm;
+    margin-bottom: 8cm;
+
+}
+#pagos{
+    text-align: center;
+    margin-top: 150px;
+    margin-bottom: 100px;
+    font-size: 35px;
+    font-family: Century ;
+}
+#titulotarjetacredito{
+    float: left;
+    margin-left: 400px;
+    margin-bottom: 40px;
+}
+#tituloefectivo{
+    float: right;
+    margin-right: 500px;
+    margin-bottom: 40px;
+}
+#credito{
+    /* display: block; */
+    width: 250px;
+    float: left;
+    margin-left: 400px;
+    padding: 15px;
+}
+#efectivo{
+    width: 250px;
+    float: right;
+    margin-right: 400px;
+    border: 15px;
+}
+#formasdepagos{
+    padding: 40px 0 0;
+    /* position: relative; */
+    /* overflow: hidden; */
+    /* background: #ededed; */
+}
+
+/* ------------------------------------------------------------PIE DE PAGINA----------------------------------------------- */
+#footerr{
+    width: 100%;
+    float: left;
+}
+
+#hatencion{
+    margin-top: 1cm;
+    text-align: center;
+    margin-bottom: 1cm;
+}
+#derechosreservados{
+    text-align: center;
+    margin-bottom: 1cm;
+}

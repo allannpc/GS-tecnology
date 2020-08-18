@@ -1,0 +1,264 @@
+#gif2{
+    display: block;
+    margin: auto;
+    margin-bottom: 40px;
+    width: 400px;
+}
+#botoninicio{
+    float: right;
+    width: 250px;
+    /* margin-right: 50px; */
+    margin-bottom: 25px;
+
+}
+
+/*----------------------------------------------principal1------------------------------------------------*/
+#principal1{
+    width: 74%;
+    margin-bottom: 1cm;
+    overflow: hidden;
+    background-color: aliceblue;
+    float: left;
+}
+#tituloproductdis{
+    margin-top: 2cm;
+    text-align: center;
+    margin-bottom: 2cm;
+}
+
+#titulocaracteristicas{ /**************************titulocaracteristicas******************************************************/
+    font-weight: 600;
+}
+#titulop{ /*******************************titulop o titulo de cada producto*******************************/
+    text-align: center;
+    margin-top: 50px;
+}
+/*-------------------producto 1------------------*/
+#producto1{
+    margin: 75px;
+    /* background-color: aliceblue; */
+    overflow: hidden;
+}
+#titulop1{
+    margin-top: 40px;
+    margin-left: 50px;
+    /* text-align: center; */
+}
+#ip1{
+    width: 190px;
+    margin: 40px;
+    margin-top: -10px;
+    float: left;
+}
+#caracteristicai11{
+    float: left;
+    margin-right: 150px;
+}
+#precioi11{
+    margin-top: 75px;
+    margin-left: 17cm;
+    font-weight: 600;
+}
+/*-------------------producto 2------------------*/
+#producto2{
+    margin: 75px;
+    /* background-color: aliceblue; */
+    overflow: hidden;
+}
+#titulop2{
+    margin-top: 40px;
+    margin-left: 50px;
+}
+#ip2{
+    width: 150px;
+    margin: 40px;
+    float: left;
+}
+#caracteristicaix{
+    float: left;
+    margin-right: 150px;
+}
+#precioix{
+    margin-top: 75px;
+    margin-left: 17cm;
+    font-weight: 600;
+}
+/*-------------------producto 3------------------*/
+#producto3{
+    margin: 75px;
+    overflow: hidden;
+}
+#titulop3{
+    margin-top: 40px;
+    margin-left: 50px;
+}
+#ip3{
+    width: 150px;
+    margin: 40px;
+    float: left;
+}
+#caracteristicas20{
+    float: left;
+    margin-right: 150px;
+}
+#precios20{
+    margin-top: 75px;
+    margin-left: 17cm;
+    font-weight: 600;
+}
+/*-------------------producto 4------------------*/
+#producto4{
+    margin: 75px;
+    overflow: hidden;
+}
+#titulop4{
+    margin-top: 40px;
+    margin-left: 50px;
+}
+#ip4{
+    width: 150px;
+    margin: 40px;
+    float: left;
+}
+#caracteristicas10{
+    float: left;
+    margin-right: 150px;
+}
+#precios10{
+    margin-top: 75px;
+    margin-left: 17cm;
+    font-weight: 600;
+}
+/*-------------------producto 5------------------*/
+#producto5{
+    margin: 75px;
+    overflow: hidden;
+}
+#titulop5{
+    margin-top: 40px;
+    margin-left: 50px;
+}
+#ip5{
+    width: 150px;
+    margin-top: 100px;
+    margin-right: 40px;
+    margin-left: 40px;
+    float: left;
+}
+#caracteristicaomen{
+    float: left;
+    margin-right: 150px;
+    margin-top: -45px;
+}
+#precioomen{
+    margin-top: 75px;
+    margin-left: 17cm;
+    font-weight: 600;
+}
+/*-------------------producto 6------------------*/
+#producto6{
+    margin: 75px;
+    overflow: hidden;
+}
+#titulop6{
+    margin-top: 40px;
+    margin-left: 50px;
+}
+#ip6{
+    width: 120px;
+    margin: 40px;
+    margin-top: -2px;
+    float: left;
+}
+#caracteristicacalculadora{
+    float: left;
+    margin-right: 150px;
+}
+#precios10{
+    margin-top: 75px;
+    margin-left: 17cm;
+    font-weight: 600;
+}
+/*-------------------producto 7------------------*/
+#producto7{
+    margin: 75px;
+    overflow: hidden;
+}
+
+#ip7{
+    width: 250px;
+    margin: 40px;
+    float: left;
+}
+#caracteristicaimpresoral380{
+    float: left;
+    margin-right: 150px;
+}
+#precioimpresoral380{
+    margin-top: 55px;
+    margin-left: 17cm;
+    font-weight: 600;
+}
+/*-------------------producto 8------------------*/
+#caracteristicai7{
+    float: left;
+    margin-right: 150px;
+}
+/*-------------------producto 9------------------*/
+#caracteristicai8{
+    float: left;
+    margin-right: 150px;
+}
+/*-------------------producto 10------------------*/
+#caracteristicaasusq5{
+    float: left;
+    margin-right: 50px;
+}
+#ip9{
+    width: 200px;
+    margin: 40px;
+    float: left;
+}
+/*-------------------producto 11------------------*/
+
+#caracteristicami9t{
+    float: left;
+    margin-right: 150px;
+}
+#ip11{
+    width: 200px;
+    margin: 40px;
+    float: left;
+}
+/*----------------------------------------------lateral 2------------------------------------------------*/
+#lateral2{
+    width: 24%;
+    float: right;
+    padding-bottom: 75px;
+    overflow: hidden;
+    background-color: aliceblue;
+}
+#titulocategoriaproductos{
+    margin: 50px;
+    margin-top: 75px;
+}
+#categorias{
+    margin-top: 25px;
+    margin-left: 55px;
+}
+#categoriacel{
+    margin-left: 35px;
+    padding: 15px;
+}
+#categoriacompu{
+    margin-left: 35px;
+    padding: 15px;
+}
+#categoriaacc{
+    margin-left: 35px;
+    padding: 15px;
+}
+#categoriaalmacena{
+    margin-left: 35px;
+    padding: 15px;
+}

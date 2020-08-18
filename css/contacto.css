@@ -1,0 +1,48 @@
+
+#infoface{
+    width: 35%;
+    
+}
+
+#facebook{
+    width: 300px;
+    margin: 1cm;
+    float: left;
+
+}
+#infotw{
+    width: 35%;
+    float: right;
+    margin-right: 5cm;
+}
+#titulotw{
+    text-align: center;
+}
+#twitter{
+    width: 400px;
+    margin: 1cm;
+}
+
+
+/**********************************************************MISION Y VISION**********************************************/
+#todomisionvision{
+    float: left;
+    width: 70%;
+    text-align: center;
+    padding: 3cm;
+}
+
+#mision{
+    float: left;
+}
+#vision{
+    float: left;
+}
+
+#titulomision{
+    font-size: 50px;
+}
+
+#titulovision{
+    font-size: 50px;
+}
